@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RedHotRojo
+- 👀 I’m interested in coding: Arduino, low and high levels of coding including Javascript and Python
+- 🌱 I’m currently learning Javascript and a little Python
