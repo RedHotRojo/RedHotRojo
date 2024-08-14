@@ -6,9 +6,9 @@
 
 🏫 Mostly self taught
 
-## Web💻/Mobile📱 Development 
+## Web 💻 & Mobile 📱 Development 
 - Back-end development with C#/.NET
-- Front end with React Native and Expo, but mostly bare HTML, CSS, JS
+- Front end with React Native and Expo (Mobile), but mostly bare HTML, CSS, JS
 
 ## 💾 Lower level stuff 🧰
 - I mess around with Arduino (RP2040 Connect)
