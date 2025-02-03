@@ -1,8 +1,6 @@
 # RedHotRojo
 
-🎈 Lots of personal projects, not much professional experience :(
-
-🤑 Trying to gain some traction on [Fiverr](https://www.fiverr.com/rohitrojo) and [Upwork](https://www.upwork.com/freelancers/~0149bc67d6e0556d0e).
+🎈 Lots of personal projects
 
 🏫 Mostly self taught
 
@@ -13,9 +11,10 @@
 ## 💾 Lower level stuff 🧰
 - I mess around with Arduino (RP2040 Connect)
 - Studying Computer Engineering at the University of Virginia
+- Working with NVIDIA Jetson Orin Nano and STM32 Nucleo boards with UVA MARS Club
+- Designing PCBs with UVA Motorsports team and MARS Club 
 
 ## 🔐 Cybersecurity 🛡
 - Attended USCC Cyber Camp through Cyberstart America
 - NCSF Scholarships: GIAC GFACT, GSEC (SANS SEC 275, SEC 401)
-- Open to learning new Linux distros
-- Willing to share some resources
+- Learning new Linux distros
