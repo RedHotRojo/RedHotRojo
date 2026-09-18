@@ -23,7 +23,7 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
  - NVIDIA Jetson Orin Nano
 
 ## 💻 Computer Architecture
- - Designed a 32-bit RISC-V CPU in Intel Quartus II with Verilog
+ - Designed a [32-bit RISC-V CPU in Intel Quartus II with Verilog](https://github.com/RedHotRojo/32-Bit-RISC-V-CPU)
  - Multi cycle, single cycle, pipelined
  - 8-bit ALU in Intel Quartus II with VHDL
 
