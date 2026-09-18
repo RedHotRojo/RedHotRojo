@@ -15,7 +15,7 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
 
 ## 📟 Embedded Programming
  - C and Assembly (No RTOS)
- - TI MSPM0G3507 Dev Board + MK II Educational BoosterPack
+ - TI MSPM0G3507 Dev Board + MK II Educational BoosterPack [(Final Project)](https://github.com/RedHotRojo/TI-MSPM0-BoosterPack-Song-Player)
  - Raspberry Pi RP2040 (Arduino Nano RP2040)
  - ESP32 C3
  - Teensy 4.0, 4.1
