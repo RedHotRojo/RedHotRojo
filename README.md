@@ -10,7 +10,7 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
 
 ## 🔐 Cybersecurity
 - Attended [USCC](https://www.uscyberchallenge.org/) [Cyber Camp](https://www.uscyberchallenge.org/cyber-camps) in 2023 through [Cyberstart America](https://cyberstart.com/)
-- [NCSF](https://cyberstart.com/programmes/) Scholarships: GIAC [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact) and [GSEC](https://www.giac.org/certifications/security-essentials-gsec) certifications, along with respective SANS [SEC 275](https://www.sans.org/cyber-security-courses/foundations) and [SEC 401](https://www.sans.org/cyber-security-courses/security-essentials) courses
+- [NCSF](https://cyberstart.com/programmes/) Scholarships: GIAC [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact) (2023) and [GSEC](https://www.giac.org/certifications/security-essentials-gsec) (2024) certifications, along with respective SANS [SEC 275](https://www.sans.org/cyber-security-courses/foundations) and [SEC 401](https://www.sans.org/cyber-security-courses/security-essentials) courses
 - Linux, Windows, PowerShell, Bash, Azure, Reverse Engineering, SQL Injection
 - UVA: [Computer and Network Security Club](https://uvacns.com/) Member (August 2026-present), CS 3710: Introduction to Cybersecurity (Spring 2026)
 - UVA Information Security Intern (July 2026 - Present): Working in the UVA SOC to defend students, faculty, and staff against phishing attacks and credential leaks using ServiceNow, Splunk, Microsoft Defender XDR, and Abnormal
@@ -32,11 +32,11 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
  - [Virginia Motorsports](https://www.virginiamotorsportseducation.org/) Electrical Team Mentor (August 2024 - Present):
    - Designed a battery pack monitor with an [ADBMS2950](https://www.analog.com/en/products/adbms2950.html) for the custom 560 Volt tractive battery pack
    - Built a charging box to handle a J1772 charging connection, a [TC Charger](https://evolveelectrics.com/products/uhf-6-6-kw-charger-w-canbus), and CAN communication between the TC Charger and custom BMS PCB
- - RC Car Electronics - Battery Pack, Motor Driver
+ - RC Car Electronics - Battery Pack, Motor Driver (Summer 2026)
    - 12 Volt Lithium Ion Battery Pack (18650 Cells)
    - Battery Management System with TI IC
    - USB-C Power Delivery for battery charging
    - MP6551 Motor Driver, custom PCB for high power motor driving (12 Volts, 5 Amps)
- - Atari 2600 Bluetooth Adapters
+ - Atari 2600 Bluetooth Adapters (Summer 2026)
    - Custom Bluetooth Adapter for Atari 2600 Console and Controllers
    - Enabled modern wireless play for retro arcade system
