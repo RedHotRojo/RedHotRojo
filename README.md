@@ -9,8 +9,8 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
 📚 Mostly self taught
 
 ## 🔐 Cybersecurity
-- Attended USCC Cyber Camp through Cyberstart America
-- NCSF Scholarships: GIAC GFACT, GSEC (SANS SEC 275, SEC 401)
+- Attended [USCC](https://www.uscyberchallenge.org/) [Cyber Camp](https://www.uscyberchallenge.org/cyber-camps) in 2023 through [Cyberstart America](https://cyberstart.com/)
+- [NCSF](https://cyberstart.com/programmes/) Scholarships: GIAC [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact), [GSEC](https://www.giac.org/certifications/security-essentials-gsec) (SANS [SEC 275](https://www.sans.org/cyber-security-courses/foundations), [SEC 401](https://www.sans.org/cyber-security-courses/security-essentials))
 - Linux, Windows, PowerShell, Bash, Azure, Reverse Engineering, SQL Injection
 
 ## 📟 Embedded Programming
