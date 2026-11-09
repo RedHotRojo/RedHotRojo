@@ -26,7 +26,7 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
 
 ## 💻 Computer Architecture
  - Designed a [32-bit RISC-V CPU in Intel Quartus II with Verilog](https://github.com/RedHotRojo/32-Bit-RISC-V-CPU) (Spring 2026)
- - Multi cycle, single cycle, pipelined
+   - Multi cycle, single cycle, pipelined with hazards
  - 8-bit ALU in Intel Quartus II with VHDL
 
 ## 🔋 PCB Design
