@@ -16,8 +16,8 @@ rohit_gayali@virginia.edu | gayali.rohit@gmail.com
 - UVA Information Security Intern (July 2026 - Present): Working in the UVA SOC to defend students, faculty, and staff against phishing attacks and credential leaks using ServiceNow, Splunk, Microsoft Defender XDR, and Abnormal
 
 ## 📟 Embedded Programming
- - C and Assembly (No RTOS)
- - C++ with FreeRTOS
+ - C, C++, Assembly
+ - FreeRTOS
  - TI MSPM0G3507 Dev Board + MK II Educational BoosterPack [(Final Project)](https://github.com/RedHotRojo/TI-MSPM0-BoosterPack-Song-Player)
  - Raspberry Pi RP2040 (Arduino Nano RP2040)
  - ESP32 C3
